@@ -16,5 +16,8 @@
     npm install
     8. И можно запустить сервер
     php artisan serve
+    
+    npx vite
+    или 
     vite
 
