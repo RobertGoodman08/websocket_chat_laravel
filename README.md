@@ -17,7 +17,8 @@
     php artisan migrate
     7. Фронтенд
     npm install
-    8. И можно запустить сервер
+    8.  npm run dev
+    9. И можно запустить сервер
     php artisan serve
     
     npx vite
